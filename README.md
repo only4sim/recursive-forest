@@ -1,7 +1,3 @@
-Certainly! Here's a detailed README for the "Recursive Forest -- Compress 10000 XGBoost Decision Tree to 1" project:
-
----
-
 # Recursive Forest -- Compress 10000 XGBoost Decision Tree to 1
 
 ## Introduction
