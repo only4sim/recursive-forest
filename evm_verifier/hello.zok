@@ -1,0 +1,16 @@
+def main(field[3] data, field[7] model) -> field {
+    return if data[0] <= model[0] {
+         if data[1] <= model[1] {
+            model[3]
+         } else {
+            model[4]
+         }
+     }
+    else {
+        if data[2] <= model[2] {
+            model[5]
+        }else{
+            model[6]
+        }
+    };
+}
