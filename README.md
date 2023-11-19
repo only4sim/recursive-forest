@@ -1,4 +1,5 @@
-# Mina zkApp: Recursive Forest
+# Recursive Forest -- Compress 10000 XGBoost decision tree to 1.
+
 
 This template uses TypeScript.
 
@@ -8,18 +9,11 @@ This template uses TypeScript.
 npm run build
 ```
 
-## How to run tests
-
+## How to run
 ```sh
-npm run test
-npm run testw # watch mode
+node build/src/main.js
 ```
 
-## How to run coverage
-
-```sh
-npm run coverage
-```
 
 ## License
 
