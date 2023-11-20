@@ -1,8 +1,6 @@
 import { Pickles } from 'o1js/dist/node/snarky.js';
 import { Add } from './Add.js';
 import {
-  isReady,
-  shutdown,
   Field,
   Mina,
   PrivateKey,
